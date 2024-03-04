@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to /","Watching Crystal Cave"];
+const statusMessages = ["Listening to /","Watching VFC NETWORK"];
 
 
 let currentIndex = 0;
