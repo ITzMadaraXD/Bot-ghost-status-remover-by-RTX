@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to /","Watching VFC NETWORK"];
+const statusMessages = ["Listening to /","Watching PREMIUM"];
 
 
 let currentIndex = 0;
