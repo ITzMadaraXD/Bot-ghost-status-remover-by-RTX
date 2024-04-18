@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to astral","stores & services"];
+const statusMessages = ["Listening to /","Flash members on top"];
 
 
 let currentIndex = 0;
