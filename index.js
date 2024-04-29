@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to /","Astral Manager!"];
+const statusMessages = ["ZeakMc","best mc server"];
 
 
 let currentIndex = 0;
