@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ZeakMc","best mc server"];
+const statusMessages = ["BOOST MEMBERS ON TOP 🌟","FREE MEMBERS"];
 
 
 let currentIndex = 0;
