@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["BOOST MEMBERS ON TOP 🌟","FREE MEMBERS"];
+const statusMessages = ["Wathching c4m","Coin4Members"];
 
 
 let currentIndex = 0;
